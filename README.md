@@ -1,4 +1,4 @@
-# FlinkWeatherShopperAssignment
+# WeatherShopper
 This repo contains the test automation script for the weather shopper application
 
 ## Concepts Included
